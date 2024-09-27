@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://antabaci.github.io/sitemap.antabaci.gz
+Sitemap: https://antabaci.github.io/app/sitemap.antabaci.gz
+Sitemap: https://antabaci.github.io/assets/sitemap.antabaci.gz
+Sitemap: https://antabaci.github.io/css/sitemap.antabaci.gz
+Sitemap: https://antabaci.github.io/data/sitemap.antabaci.gz
+Sitemap: https://antabaci.github.io/includes/sitemap.antabaci.gz
+Sitemap: https://antabaci.github.io/item/sitemap.antabaci.gz
+Sitemap: https://antabaci.github.io/src/sitemap.antabaci.gz
